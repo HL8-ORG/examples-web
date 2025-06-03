@@ -9,7 +9,7 @@
     "start": "next start",
     "typecheck": "tsc --noEmit",
     "ui-add": "pnpm dlx shadcn@latest add",
-    "ui-dashboard": "npx shadcn@latest add dashboard-01",
+    "ui-dashboard": "npx shadcn@latest add dashboard-13",
     "ui-add-login": "npx shadcn@latest add login-02"
   },
   "dependencies": {
