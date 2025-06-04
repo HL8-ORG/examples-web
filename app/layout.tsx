@@ -1,4 +1,5 @@
 import { Geist, Geist_Mono } from 'next/font/google'
+import * as React from 'react'
 
 import { Providers } from '@/components/providers'
 import '@pkg/ui/globals.css'
