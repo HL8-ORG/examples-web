@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/aiofc/DEMO/aiofix-monorepo-builder/examples/demo/app/layout\":[\"static/media/569ce4b8f30dc480-s.p.woff2\",\"static/media/93f479601ee12b01-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/aiofc/604/aiofix-ai-mcp/examples/web/src/app/layout\":[\"static/media/569ce4b8f30dc480-s.p.woff2\",\"static/media/93f479601ee12b01-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

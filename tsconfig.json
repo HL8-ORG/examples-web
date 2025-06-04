@@ -5,7 +5,7 @@
     "baseUrl": ".",
     "paths": {
       "@/*": [
-        "./*"
+        "./src/*"
       ],
       "@pkg/ui/*": [
         "../../packages/ui/src/*"
